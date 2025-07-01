@@ -75,16 +75,6 @@ java -jar dist/Link-Us.jar
 
 ---
 
-## Screenshots
-
-| Login | Doctor Dashboard |
-|-------|------------------|
-| _coming soon_ | _coming soon_ |
-
-*(Feel free to update with fresh screenshots!)*
-
----
-
 ## Contributing
 
 1. Fork → feature branch → Pull Request.  
